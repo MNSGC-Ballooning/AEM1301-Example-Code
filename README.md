@@ -1,6 +1,12 @@
 # AEM1301-Example-Code
 Some example code for the AEM1301 class. 
 
+**Libraries Required**
+- mdMotorController.h for using motor controllers
+  - https://github.com/MNSGC-Ballooning/mdMotorController
+- XBee.h for XBee Radio use
+  - https://github.com/MNSGC-Ballooning/XBee
+
 **Code Descriptions:**
 - 1.0 - Code for a servo being controlled by a potentiometer.
 - 1.1 - Two servos being controlled by a joystick potentiometer. (One potentiometer in the x and one in the y direction.)
