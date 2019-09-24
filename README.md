@@ -1,6 +1,8 @@
 # AEM1301-Example-Code
 Some example code for the AEM1301 class. 
-**Code Descriptions**
+
+**Code Descriptions:**
+
 - 1.0 - code for a servo being controlled by a potentiometer.
 - 1.1 - two servos being controlled by a joystick potentiometer. (One potentiometer in the x and one in the y direction.)
 - 1.2 - motor controller code that allows for two propellers to have their speeds and directions changed.
