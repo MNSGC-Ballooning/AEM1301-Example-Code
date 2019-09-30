@@ -2,8 +2,6 @@
 Some example code for the AEM1301 class. 
 
 **Libraries Required**
-- mdMotorController.h for using motor controllers
-  - https://github.com/MNSGC-Ballooning/mdMotorController
 - XBee.h for XBee Radio use
   - https://github.com/MNSGC-Ballooning/XBee
 
