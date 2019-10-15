@@ -8,8 +8,8 @@
 
 //Pin definitions
 #define E1_pin 10  //PWM
-#define M1_pin 8
-#define E2_pin 9  //PWM
+#define M1_pin 9
+#define E2_pin 8  //PWM
 #define M2_pin 7
 #define servo_pin 6  //PWM
 #define XBeeSerial Serial1
